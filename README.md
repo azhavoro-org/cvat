@@ -48,18 +48,6 @@ do trainings and a dedicated support with 24 hour SLA.
 - [Frequently asked questions](https://docs.cvat.ai/docs/faq/)
 - [Where to ask questions](#where-to-ask-questions)
 
-## Partners ❤️
-
-CVAT is used by teams all over the world. In the list, you can find key companies which
-help us support the product or an essential part of our ecosystem. If you use us,
-please drop us a line at [contact@cvat.ai](mailto:contact+github@cvat.ai).
-
-- [Human Protocol](https://hmt.ai) uses CVAT as a way of adding annotation service to the Human Protocol.
-- [FiftyOne](https://fiftyone.ai) is an open-source dataset curation and model analysis
-  tool for visualizing, exploring, and improving computer vision datasets and models that are
-  [tightly integrated](https://voxel51.com/docs/fiftyone/integrations/cvat.html) with CVAT
-  for annotation and label refinement.
-
 ## Public datasets
 
 [ATLANTIS](https://github.com/smhassanerfani/atlantis), an open-source dataset for semantic segmentation
