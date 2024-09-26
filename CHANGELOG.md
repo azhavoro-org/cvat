@@ -16,6 +16,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- scriv-insert-here -->
 
+<a id='changelog-2.19.1'></a>
+## \[2.19.1\] - 2024-09-26
+
+### Added
+
+- Test
+
+### Changed
+
+- Test
+
+### Deprecated
+
+- Test
+
 <a id='changelog-2.19.0'></a>
 ## \[2.19.0\] - 2024-09-20
 
